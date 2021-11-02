@@ -1,0 +1,6 @@
+Planning Sheet For 2048 Bot:
+	Game.py -- simulates game
+	Bot.py -- simulates 1 bot playing the game
+	Main.py -- initializes the bots and runs simulation to improve bots
+	
+	
